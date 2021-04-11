@@ -1,4 +1,6 @@
 # Practica-Big-Data-Architecture
+Practica realizada en el Bootcamp Big Data & Machine Learning en el modulo de Arquitectura Big Data.
+
 # BUSCADOR DE PISOS CON LOCALIZACION DE METRO Y RESTAURANTES.
 # Información general.
 Página web o App para móviles que se encarga de buscar los mejores pisos que le indiquemos en Madrid en función d si nos interesan cerca ciertos restaurantes de una página web https://yelp.es según sus opiniones y la cercanía del metro de Madrid.
